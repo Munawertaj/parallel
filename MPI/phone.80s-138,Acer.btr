@@ -1,0 +1,7 @@
+
+phone:138 terminated with signal 11 at PC=7f8bd1dbf148 SP=7ffffe829558.  Backtrace:
+/lib/x86_64-linux-gnu/libstdc++.so.6(_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2ERKS4_+0x8)[0x7f8bd1dbf148]
+./phone(+0x336e)[0x7f8bd450236e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f8bd1a49d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f8bd1a49e40]
+./phone(+0x2725)[0x7f8bd4501725]
